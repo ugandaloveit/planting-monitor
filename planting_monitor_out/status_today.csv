@@ -1,23 +1,23 @@
 date,district,status,confidence,models_agree,reason,rains_active,sat_obs_last10_mm,fc_next7_mm,fc_week2_mm,fc_spread_mm,sample_points,fc_rain_prob_7d_%,fc_dryspell_days,ens_dryspell_prob,clim_risk_thisweek_%,plant_by,lat,lon
-2026-11-17,Agago,RED,HIGH,0/4 models wet,season ended (past cessation),yes,34.3,0.6,3.0,0.5,4,18,10,1.0,32,24 Sep,2.865,33.302
-2026-11-17,Otuke,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,40.0,0.5,4.4,0.0,4,18,10,0.97,23,15 Oct,2.504,33.335
-2026-11-17,Kitgum,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,32.5,0.9,2.8,0.4,4,19,10,0.97,22,15 Oct,3.294,33.086
-2026-11-17,Pader,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,34.3,0.5,4.2,0.0,4,18,10,1.0,25,15 Oct,2.891,32.932
-2026-11-17,Alebtong,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,40.0,0.8,5.5,0.5,4,18,10,0.97,22,15 Oct,2.327,33.141
-2026-11-17,Lira,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,40.0,1.0,9.0,1.5,4,18,10,1.0,25,15 Oct,2.419,32.882
-2026-11-17,Kole,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.8,0.9,10.2,1.0,4,18,10,0.97,35,15 Oct,2.358,32.705
-2026-11-17,Oyam,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.8,1.0,11.1,1.0,4,23,8,0.97,33,15 Oct,2.439,32.501
-2026-11-17,Apac,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,64.8,3.3,15.7,3.4,4,29,3,0.88,36,15 Oct,2.127,32.574
-2026-11-17,Gulu,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.0,0.6,4.8,0.4,4,22,9,0.95,21,15 Oct,2.91,32.378
-2026-11-17,Omoro,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.8,0.5,4.8,0.0,4,25,9,1.0,19,15 Oct,2.676,32.637
-2026-11-17,Nwoya,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,52.7,1.4,10.7,1.7,4,28,9,0.95,12,15 Oct,2.635,31.989
-2026-11-17,Amuru,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,48.6,1.1,15.2,1.6,4,24,7,0.9,16,15 Oct,2.989,32.016
-2026-11-17,Lamwo,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.6,1.1,5.7,1.6,4,26,10,0.93,27,15 Oct,3.501,32.736
-2026-11-17,Amolatar,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,66.8,4.1,21.6,0.4,4,35,3,0.45,17,01 Oct,1.702,32.816
-2026-11-17,Kalaki,RED,HIGH,0/4 models wet,season ended (past cessation),yes,58.3,1.7,7.8,3.0,4,24,7,0.8,37,24 Sep,1.896,33.4
-2026-11-17,Amuria,RED,HIGH,0/4 models wet,season ended (past cessation),yes,58.3,0.9,6.0,0.0,4,24,7,0.9,40,24 Sep,2.038,33.398
-2026-11-17,Kaberamaido,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,66.8,4.0,17.0,0.1,4,35,3,0.7,16,01 Oct,1.747,33.13
-2026-11-17,Kagadi,RED,MED,2/4 models wet,past plant-by deadline; too little season left,yes,77.6,14.1,19.4,7.7,3,74,1,0.03,7,22 Oct,1.019,30.841
-2026-11-17,Dokolo,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,58.3,2.8,15.6,2.0,4,31,3,0.65,24,01 Oct,1.912,33.0
-2026-11-17,Kwania,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,64.8,3.0,16.8,0.0,4,31,3,0.82,25,01 Oct,1.974,32.796
-2026-11-17,Kyenjojo,RED,MED,2/4 models wet,past plant-by deadline; too little season left,yes,77.6,15.5,22.6,0.0,3,68,0,0.03,6,15 Oct,0.797,30.691
+2026-11-18,Agago,RED,HIGH,0/4 models wet,season ended (past cessation),yes,34.5,1.0,5.1,1.1,4,26,12,0.97,32,24 Sep,2.865,33.302
+2026-11-18,Otuke,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,38.4,1.1,5.4,1.1,4,19,9,0.9,23,15 Oct,2.504,33.335
+2026-11-18,Kitgum,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,32.8,1.8,11.9,4.0,4,20,8,0.88,22,15 Oct,3.294,33.086
+2026-11-18,Pader,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,34.5,1.3,9.6,2.2,4,20,8,0.93,25,15 Oct,2.891,32.932
+2026-11-18,Alebtong,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,38.4,2.5,8.5,3.7,4,19,9,0.78,22,15 Oct,2.327,33.141
+2026-11-18,Lira,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,38.4,3.0,8.1,2.6,4,23,4,0.82,25,15 Oct,2.419,32.882
+2026-11-18,Kole,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,50.6,2.6,10.2,2.7,4,23,4,0.72,35,15 Oct,2.358,32.705
+2026-11-18,Oyam,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,50.6,3.5,14.2,3.7,4,31,4,0.8,33,15 Oct,2.439,32.501
+2026-11-18,Apac,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,62.8,5.6,10.5,3.2,4,35,4,0.5,36,15 Oct,2.127,32.574
+2026-11-18,Gulu,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,49.9,3.0,15.3,3.1,4,24,4,0.82,21,15 Oct,2.91,32.378
+2026-11-18,Omoro,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,50.6,3.6,11.1,3.7,4,27,4,0.9,19,15 Oct,2.676,32.637
+2026-11-18,Nwoya,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.5,5.3,14.0,1.3,4,35,2,0.7,12,15 Oct,2.635,31.989
+2026-11-18,Amuru,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,48.4,4.3,16.2,2.9,4,30,4,0.72,16,15 Oct,2.989,32.016
+2026-11-18,Lamwo,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,51.7,2.2,11.9,2.5,4,33,3,0.75,27,15 Oct,3.501,32.736
+2026-11-18,Amolatar,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,63.5,7.5,7.5,0.1,4,36,2,0.38,17,01 Oct,1.702,32.816
+2026-11-18,Kalaki,RED,HIGH,0/4 models wet,season ended (past cessation),yes,56.1,4.9,8.7,4.6,4,33,3,0.47,37,24 Sep,1.896,33.4
+2026-11-18,Amuria,RED,HIGH,0/4 models wet,season ended (past cessation),yes,56.1,3.6,7.6,0.0,4,30,4,0.78,40,24 Sep,2.038,33.398
+2026-11-18,Kaberamaido,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,63.5,7.8,8.5,0.7,4,36,3,0.38,16,01 Oct,1.747,33.13
+2026-11-18,Kagadi,RED,HIGH,3/4 models wet,past plant-by deadline; too little season left,yes,76.2,16.4,22.2,0.6,3,82,1,0.03,7,22 Oct,1.019,30.841
+2026-11-18,Dokolo,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,56.1,5.5,9.2,3.4,4,39,2,0.45,24,01 Oct,1.912,33.0
+2026-11-18,Kwania,RED,HIGH,0/4 models wet,past plant-by deadline; too little season left,yes,62.8,6.3,14.2,0.0,4,39,2,0.53,25,01 Oct,1.974,32.796
+2026-11-18,Kyenjojo,RED,MED,2/4 models wet,past plant-by deadline; too little season left,yes,76.2,17.7,27.8,0.0,3,76,1,0.03,6,15 Oct,0.797,30.691
