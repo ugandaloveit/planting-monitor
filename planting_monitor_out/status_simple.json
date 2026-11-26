@@ -9,43 +9,43 @@
     {
       "name": "Agago",
       "status": "HOLD",
-      "mm": 0.2,
+      "mm": 0.1,
       "plant_by": "2026-09-24"
     },
     {
       "name": "Otuke",
       "status": "HOLD",
-      "mm": 0.1,
+      "mm": 0.0,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Kitgum",
       "status": "HOLD",
-      "mm": 0.4,
+      "mm": 0.2,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Pader",
       "status": "HOLD",
-      "mm": 0.2,
+      "mm": 0.1,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Alebtong",
       "status": "HOLD",
-      "mm": 0.2,
+      "mm": 0.1,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Lira",
       "status": "HOLD",
-      "mm": 0.1,
+      "mm": 0.2,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Kole",
       "status": "HOLD",
-      "mm": 0.1,
+      "mm": 0.2,
       "plant_by": "2026-10-15"
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "Apac",
       "status": "HOLD",
-      "mm": 0.4,
+      "mm": 0.9,
       "plant_by": "2026-10-15"
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "Nwoya",
       "status": "HOLD",
-      "mm": 0.3,
+      "mm": 0.2,
       "plant_by": "2026-10-15"
     },
     {
@@ -87,13 +87,13 @@
     {
       "name": "Lamwo",
       "status": "HOLD",
-      "mm": 0.5,
+      "mm": 0.3,
       "plant_by": "2026-10-15"
     },
     {
       "name": "Amolatar",
       "status": "HOLD",
-      "mm": 4.7,
+      "mm": 0.9,
       "plant_by": "2026-10-01"
     },
     {
@@ -105,37 +105,37 @@
     {
       "name": "Amuria",
       "status": "HOLD",
-      "mm": 0.2,
+      "mm": 0.0,
       "plant_by": "2026-09-24"
     },
     {
       "name": "Kaberamaido",
       "status": "HOLD",
-      "mm": 3.5,
+      "mm": 0.9,
       "plant_by": "2026-10-01"
     },
     {
       "name": "Kagadi",
       "status": "HOLD",
-      "mm": 2.5,
+      "mm": 3.9,
       "plant_by": "2026-10-22"
     },
     {
       "name": "Dokolo",
       "status": "HOLD",
-      "mm": 1.6,
+      "mm": 0.5,
       "plant_by": "2026-10-01"
     },
     {
       "name": "Kwania",
       "status": "HOLD",
-      "mm": 0.2,
+      "mm": 0.5,
       "plant_by": "2026-10-01"
     },
     {
       "name": "Kyenjojo",
       "status": "HOLD",
-      "mm": 3.5,
+      "mm": 3.1,
       "plant_by": "2026-10-15"
     }
   ]
